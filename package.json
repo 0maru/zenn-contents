@@ -1,5 +1,10 @@
 {
+  "license": "MIT",
   "dependencies": {
     "zenn-cli": "^0.1.99"
+  },
+  "scripts": {
+    "create": "npx zenn new:article",
+    "preview": "npx zenn preview"
   }
 }
